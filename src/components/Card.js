@@ -103,15 +103,4 @@ HTMLElement.prototype.val = function(t) {
     }
 };
 
-const define = (name, className) => {
-    customElements.define(name, className);
-}
-
-const create = (obj, inp) => {
-    const el = document.createElement(obj)
-    el.applyCSS(inp)
-    document.body.appendChild(el)
-    return el
-}
-
 define('velvet-card', Card);
