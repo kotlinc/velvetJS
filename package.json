@@ -1,0 +1,23 @@
+{
+  "name": "velvet-js",
+  "version": "1.0.0",
+  "description": "A library designed to be able to use JS easier.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kotlinc/velvetJS.git"
+  },
+  "keywords": [
+    "javascript",
+    "typescript",
+    "ui",
+    "dom",
+    "html"
+  ],
+  "author": "Lucas Plumb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kotlinc/velvetJS/issues"
+  },
+  "homepage": "https://github.com/kotlinc/velvetJS#readme"
+}
