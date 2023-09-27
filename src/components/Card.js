@@ -73,4 +73,8 @@ class Card extends HTMLElement {
     }
 }
 
+const define = (name, className) => {
+    customElements.define(name, className);
+}
+
 define('velvet-card', Card);

@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/kotlinc/velvetJS/issues"
   },
-  "homepage": "https://github.com/kotlinc/velvetJS#readme"
+  "homepage": "https://github.com/kotlinc/velvetJS#readme",
+  "devDependencies": {
+    "eslint": "^8.50.0"
+  }
 }
