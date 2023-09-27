@@ -61,8 +61,4 @@ class Time extends HTMLElement {
     }
 }
 
-const define = (name, className) => {
-    customElements.define(name, className);
-}
-
 define('velvet-time', Time);
